@@ -1,6 +1,6 @@
 ---
 alt: Expected Points
-color: "#0B4F6C"
+color: "#b80c09"
 date: 3
 image: tools/analysis.svg
 link1: https://apps.dynastyprocess.com/expectedpoints

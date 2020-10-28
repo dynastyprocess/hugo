@@ -1,6 +1,6 @@
 ---
 alt: Crystal Ball
-color: "#0B4F6C"
+color: "#01BAEF"
 date: 5
 image: tools/crystal-ball.svg
 link: https://apps.dynastyprocess.com/crystal-ball
