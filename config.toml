@@ -1,5 +1,5 @@
 title = "DynastyProcess.com"
-baseURL = "https://dynastyprocess.com"
+baseURL = "https://dynastyprocesshugo.netlify.app/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
