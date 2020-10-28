@@ -1,6 +1,8 @@
 ---
 title: "Narratives: the Trade Up"
-excerpt: "A study as to whether 'trading up' for a player actually predicts increased rookie opportunity - hint: it doesn't!"
-link: https://dynastyleaguefootball.com/2019/05/09/narratives-the-trade-up/
 category: DLF
+author: Tan
+date: 2019-05-19
 ---
+
+I wrote this piece about trading up for a player on DLF - you can check it out here: https://dynastyleaguefootball.com/2019/05/09/narratives-the-trade-up/

@@ -9,7 +9,7 @@ googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "High Quality Resources for DynastyFF"
+  tagline = "High quality resources for DynastyFF"
   author = "Tan Ho, Joe Sydlowski"
   description = "Delivering high quality open data and resources for dynasty fantasy football."
   logoBig = "/images/_dynastyprocess/logo-hex-large.png"
@@ -55,11 +55,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 2
 [[menu.main]]
   name = "Posts"
-  url  = "/#posts"
+  url  = "/#blog"
   weight = 3
-[[menu.main]]
-  name = "Contribute"
-  url  = "/#contribute"
-  weight = 4
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
