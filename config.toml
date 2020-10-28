@@ -1,0 +1,65 @@
+title = "DynastyProcess.com"
+baseURL = "https://dynastyprocess.com"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+  tagline = "High-quality resources for DynastyFF"
+  author = "Tan Ho, Joe Sydlowski"
+  description = "Delivering high quality open data and resources for dynasty fantasy football."
+  logoBig = "/images/_dynastyprocess/logo-hex-large.png"
+  logoSmall = "/images/osprey-logo.png"
+  favicon = "favicon.ico"
+  opengraphImage = "/images/osprey.png"
+  email = "hello@dynastyprocess.com"
+  googleTagManager = ""
+  customCSS = true
+
+  # Social media links in footer
+  twitter = "dynastyprocess"
+  github = "dynastyprocess"
+
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = false
+  cacheBustJS = false
+
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = false
+  ajaxFormspreeGold = false
+  ajaxBasin = false
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Work"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Posts"
+  url  = "/#posts"
+  weight = 3
+[[menu.main]]
+  name = "Contribute"
+  url  = "/#contribute"
+  weight = 4
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
