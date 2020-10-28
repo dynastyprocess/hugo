@@ -9,7 +9,7 @@ googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "High-quality resources for DynastyFF"
+  tagline = "High Quality Resources for DynastyFF"
   author = "Tan Ho, Joe Sydlowski"
   description = "Delivering high quality open data and resources for dynasty fantasy football."
   logoBig = "/images/_dynastyprocess/logo-hex-large.png"
@@ -21,8 +21,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   customCSS = true
 
   # Social media links in footer
-  twitter = "dynastyprocess"
   github = "dynastyprocess"
+  twitter = "dynastyprocess"
 
   # Copyright and theme author credit in footer
   copyright = true
