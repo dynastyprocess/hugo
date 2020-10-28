@@ -1,10 +1,10 @@
 ---
 alt: Trade Calculator
-color: '#009687'
-date: "2000-01-01"
-image: tools/calculator.png
-link1: https://apps.dynastyprocess.com/calculator
-link2: https://dynastyprocess.com/values
+color: "#B80C09"
+date: 4
+image: tools/calculator.svg
+link: https://apps.dynastyprocess.com/calculator
+linkabout: https://dynastyprocess.com/values
 title: Trade Calculator
 ---
 

@@ -23,8 +23,10 @@
             {{ .Content }}
           </article>
 
-          {{ if .Params.link1 }}<h3><a href="{{ .Params.link1 }}">{{ i18n "view" }}</a></h3>{{ end }}
-          {{ if .Params.link2 }}<h3><a href="{{ .Params.link2 }}">{{ i18n "code" }}</a></h3>{{ end }}
+          {{ if .Params.link }}<h3><a href="{{ .Params.link }}">Link</a></h3>{{ end }}
+          {{ if .Params.linkcode }}<h3><a href="{{ .Params.linkcode }}">Code</a></h3>{{ end }}
+          {{ if .Params.linkabout }}<h3><a href="{{ .Params.linkabout }}">More Info</a></h3>{{ end }}
+
         </div>
 
       </div>

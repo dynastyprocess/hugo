@@ -1,9 +1,9 @@
 ---
 alt: Potential Points
-color: 
-date: "2000-01-05"
-image: 
-link1: 
+color: "#FBFBFF"
+date: "2000-01-07"
+image: tools/potential-points.svg
+link: 
 title: Potential Points
 ---
 

@@ -1,10 +1,11 @@
 ---
 alt: ffscrapr
-color: '#000000'
-date: "2000-01-03"
+color: '#040F16'
+date: 1
 image: tools/ffscrapr.png
-link1: https://ffscrapr.dynastyprocess.com
+link: "https://ffscrapr.dynastyprocess.com"
+linkcode: "https://github.com/dynastyprocess/ffscrapr"
 title: ffscrapr
 ---
 
-Our Trade Calculator features a startup mode, wizard suggestions, and customizable values based on your preferences for depth and rookies. 
+Helps access various Fantasy Football APIs (i.e. MFL, Sleeper, Fleaflicker, ESPN, Yahoo, potentially other platforms) by handling authentication and rate-limiting, forming appropriate calls, and returning tidy dataframes which can be easily connected to other data sources.

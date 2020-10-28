@@ -1,8 +1,8 @@
 ---
 alt: Expected Points
-color: 
-date: "2000-01-04"
-image: 
+color: "#0B4F6C"
+date: 3
+image: tools/analysis.svg
 link1: https://apps.dynastyprocess.com/expectedpoints
 title: Expected Points
 ---
