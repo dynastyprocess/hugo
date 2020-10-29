@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+author: Tan
 title: Market Values
 date: 2020-06-25
 url: /values

@@ -1,6 +1,7 @@
 ---
 title: Learning Where To Look For NFL Data
 date: 2019-02-02
+author: Tan
 category: Data
 excerpt: "A quick dive into using nflscrapR in PowerQuery to find specific NFL datasets!"
 ---

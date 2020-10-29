@@ -2,6 +2,7 @@
 title: Five Minute Projections - the Wisdom of Crowds at Work!
 date: 2019-02-18
 category: Projections
+author: Tan
 excerpt: "Alternative title: How I Once Beat Industry Professionals in a Projections Contest With ***~Zero Research***"
 ---
 [*alternative title: How I Once Beat Industry Professionals in a Projections Contest With* ***~Zero Research***]
