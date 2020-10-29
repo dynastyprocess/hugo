@@ -1,6 +1,6 @@
 title = "DynastyProcess.com"
-baseURL = "https://dynastyprocesshugo.netlify.app/"
-tags = ["portfolio", "web design", "blog"]
+baseURL = "https://dynastyprocess.com"
+tags = ["data analysis", "rstats", "data science", "dynasty fantasy football"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"

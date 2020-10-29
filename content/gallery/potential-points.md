@@ -7,4 +7,6 @@ link:
 title: Potential Points
 ---
 
-Our Potential Points features a startup mode, wizard suggestions, and customizable values based on your preferences for depth and rookies. 
+Potential Points is, far and away, the best way to award rookie draft picks. Heck, best ball is the best format for league lineups too, let's be honest! 
+
+This app helps calculate Potential Points for ESPN leagues. MFL and Sleeper already have built in functions to do this! (and you should be using those platforms, but ...)

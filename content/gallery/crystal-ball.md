@@ -3,11 +3,11 @@ alt: Crystal Ball
 color: "#01BAEF"
 date: 5
 image: tools/crystal-ball.svg
-link: https://apps.dynastyprocess.com/crystal-ball
+link: https://apps.dynastyprocess.com/crystalball
 title: Crystal Ball
 ---
 
-The Crystal Ball predicts how your team will finish the season - should you be rebuilding or pushing all-in?
+The Crystal Ball predicts how your team will finish the season by looking at past All Play Percentage - should you be rebuilding or pushing all-in?
 
 ### What is "All Play Percentage"?
 
