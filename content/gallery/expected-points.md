@@ -1,10 +1,10 @@
 ---
 alt: Expected Points
-color: "#b80c09"
-date: 3
-image: tools/analysis.svg
-link1: https://apps.dynastyprocess.com/expectedpoints
+color: "#222"
+date: 5
+image: tools/ffopportunity.svg
+link1: https://ep.dynastyprocess.com
 title: Expected Points
 ---
 
-Our Trade Calculator features a startup mode, wizard suggestions, and customizable values based on your preferences for depth and rookies. 
+ffopportunity is our Expected Fantasy Points package and helps measure the performance of players as compared to the expected scoring for an average player in that situation. 

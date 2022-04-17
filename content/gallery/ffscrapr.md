@@ -1,10 +1,10 @@
 ---
 alt: ffscrapr
-color: '#040F16'
-date: 1
-image: tools/ffscrapr.png
-link: "https://ffscrapr.dynastyprocess.com"
-linkcode: "https://github.com/dynastyprocess/ffscrapr"
+color: '#222'
+date: 4
+image: tools/ffscrapr.svg
+link: "https://ffscrapr.ffverse.com"
+linkcode: "https://github.com/ffverse/ffscrapr"
 title: ffscrapr
 ---
 

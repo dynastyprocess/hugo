@@ -1,10 +1,10 @@
 ---
-alt: Potential Points
-color: "#FBFBFF"
-date: "2000-01-07"
-image: tools/potential-points.svg
-link: https://apps.dynastyprocess.com/potentialpoints
-title: Potential Points
+alt: ffsimulator
+color: "#222"
+date: 20
+image: tools/ffsimulator.svg
+link: https://ffsimulator.ffverse.com
+title: ffsimulator
 ---
 
 Potential Points is, far and away, the best way to award rookie draft picks. Heck, best ball is the best format for league lineups too, let's be honest! 

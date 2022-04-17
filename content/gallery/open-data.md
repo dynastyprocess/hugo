@@ -1,8 +1,8 @@
 ---
 alt: Open Data
-color: "#FBFBFF"
-date: 2
-image: tools/online-library.svg
+color: "#222"
+date: 3
+image: tools/data-logo.png
 link: https://github.com/dynastyprocess/data
 title: Open Data
 ---

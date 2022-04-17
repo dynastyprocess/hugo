@@ -1,8 +1,8 @@
 ---
 alt: Trade Calculator
-color: "#009687"
-date: 4
-image: tools/calculator.png
+color: "#222"
+date: 1
+image: tools/calc-logo.png
 link: https://apps.dynastyprocess.com/calculator
 linkabout: https://dynastyprocess.com/values
 title: Trade Calculator

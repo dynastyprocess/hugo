@@ -1,8 +1,8 @@
 ---
 alt: Crystal Ball
-color: "#01BAEF"
-date: 5
-image: tools/crystal-ball.svg
+color: "#222"
+date: 2
+image: tools/crystal_ball.svg
 link: https://apps.dynastyprocess.com/crystalball
 title: Crystal Ball
 ---
